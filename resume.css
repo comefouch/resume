@@ -205,6 +205,10 @@ main {
   font-weight: normal;
 }
 
+#tel {
+  margin-bottom: 1rem;
+}
+
 #tel::before {
   font-family: 'Material Icons';
   content: "call";
